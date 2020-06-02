@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "d": "gulp"
+    "d": "gulp",
+    "ts": "tsc --watch"
   },
   "keywords": [],
   "author": "",
